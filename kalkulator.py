@@ -1,11 +1,9 @@
-def dodawanie():
-	print('Podaj pierwszą liczbę:')
-	a=int(input())
-	print('Podaj drugą liczbę:')
-	b=int(input())
-	print(a+b)
+def dodawanie(a,b):
+	return a+b
+print('Podaj pierwszą liczbę:')
+a=int(input())
+print('Podaj drugą liczbę:')
+b=int(input())
 
-def get_info():
-	print ("To jest prosty programik kalku")
-get_info()
-dodawanie()
+print(dodawanie(a,b))
+
