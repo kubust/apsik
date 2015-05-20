@@ -1,1 +1,2 @@
-To jest prosty projekt kalkulatora.
+To jest prosty projekt kalkulatora. 
+Dopisuje nową linijkę.
